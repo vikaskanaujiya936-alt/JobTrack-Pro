@@ -1,0 +1,21 @@
+[
+    {
+        "company": "vik",
+        "role": "python developer",
+        "date": "2026-10-02",
+        "status": "Applied",
+        "location": "mumbai",
+        "link": ""
+    },
+    {
+        "company": "tcs",
+        "role": "Python Developer",
+        "date": "2026-10-02",
+        "status": "Applied",
+        "location": "mumbai",
+        "interview_date": "16-12-2027",
+        "hr_contact": "9136728733",
+        "link": "https://www.tcs.com",
+        "notes": "Applied through company website"
+    }
+]
